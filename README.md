@@ -4,14 +4,14 @@ Key Features
 
 - Advanced Predictive Model:
   - Our model uses deep learning and machine learning techniques to achieve a *R-squared score of over 99%* in AQI prediction.
-  - It analyzes *12 key features, including **PM2.5, **PM10, **CO, **NO2, **SO2, and **O3* levels to forecast AQI.
+  - It analyzes 12 key features, including PM2.5, PM10, CO, NO2, SO2, and O3 levels to forecast AQI.
   
 - Real-Time Monitoring:
   - The system supports real-time data processing and continuous updates to AQI predictions.
   - Ideal for cities, industries, and organizations looking for real-time air quality insights.
 
 - *calable API Solution:
-  - Designed for *governments, **industries, and **organizations, our system offers an easily deployable **API*.
+  - Designed for governments, industries, and organizations, our system offers an easily deployable API.
   - It can be integrated into smart city platforms, environmental monitoring systems, and IoT devices.
 
 - Comprehensive Data Analysis:
